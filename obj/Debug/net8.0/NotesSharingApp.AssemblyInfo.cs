@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotesSharingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b92ec3eccd7114194bd80420d4279c47dd44ad2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cde209d0a1fd9ea977565e4873b360bca8f7cac")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotesSharingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotesSharingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
